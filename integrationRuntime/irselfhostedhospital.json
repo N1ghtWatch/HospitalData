@@ -1,0 +1,6 @@
+{
+	"name": "irselfhostedhospital",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}

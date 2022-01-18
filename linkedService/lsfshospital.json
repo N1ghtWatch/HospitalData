@@ -1,0 +1,17 @@
+{
+	"name": "lsfshospital",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "FileServer",
+		"typeProperties": {
+			"host": "D:\\Work Files\\GECO Training\\Training\\Training20220118",
+			"userId": "anglagalag@yahoo.com",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiIyMjVjYWVlZS03YzEzLTRiYTAtYTFjNS04NmFjNTU1ZjkzNjgiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "irselfhostedhospital",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
