@@ -1,5 +1,5 @@
 {
-	"name": "dataflow1",
+	"name": "dfHospitalData",
 	"properties": {
 		"type": "MappingDataFlow",
 		"typeProperties": {
